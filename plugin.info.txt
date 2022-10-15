@@ -1,0 +1,7 @@
+base   dokutts
+author dodotori @ dokuwiki forum
+email  dodotori@localhost
+date   2022-10-10
+name   dokutts plugin
+desc   Text To Sound for selected text in editor
+url    https://github.com/edwardcodelab/dokutts
